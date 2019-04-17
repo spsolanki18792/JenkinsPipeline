@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Test Jenkins
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sunils
+Implementation-Vendor-Id: com.org
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/test-jenkins
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
